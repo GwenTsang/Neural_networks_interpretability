@@ -5,6 +5,8 @@
 Vocab size: 115
 R² score: 0.6971
 ID du neurone qui détecte les parenthèses : 250
-Modèle ayant une seule couche
+Nombre de couche : 1
+Nombre total de neurones : 512
+Embedding_dim : 128
 ```
 
