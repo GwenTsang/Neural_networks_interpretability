@@ -1,6 +1,6 @@
 # Neural_networks_interpretability : détection des parenthèses dans un LSTM bilingue
 
-Ce dépôt contient le code source et les expériences pour l'article *« Détection des parenthèses dans un LSTM bilingue : Neurone partagé ou mécanisme distribué ? »*.
+Ce dépôt contient le code source pour l'article *« Détection des parenthèses dans un LSTM bilingue : Neurone partagé ou mécanisme distribué ? »*.
 
 ## Structure du projet
 
