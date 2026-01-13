@@ -105,7 +105,5 @@ scikit-learn
 
 ## Auteurs
 
-- Gwendal Tsang gwendal.tsang@gmail.com
-- Anastasiia Belosevich a.belosevich@gmail.com
-
-Université Sorbonne Nouvelle, 2026
+- Gwendal Tsang - gwendal.tsang@gmail.com - Nanterre Université
+- Anastasiia Belosevich a.belosevich@gmail.com - Université Sorbonne Nouvelle
